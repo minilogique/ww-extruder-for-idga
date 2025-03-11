@@ -7,10 +7,11 @@ Had an OEM IDGA gearset laying around and I had nothing else to do with it. Cloc
 ## BOM
 ```
 Main hardware
-2 M3 square nuts
-2 M3x16 (1 M3x16 if you do not use extruder spring)
-1 M3x10
-1 M3x25 (2 M3x25 if you use extruder spring)
+2 M3 thin square nuts
+2 M3x20 (1 M3x20 if you do not use smooth idler)
+1 M3x12 (2 M3x20 if you do not use smooth idler)
+1 M3x16
+1 M3x25
 1 OEM IDGA gearset
 1 M3 thin washer
 1 extruder spring
