@@ -31,4 +31,5 @@ Update 11.03.2025 - uploaded new models, improved looks and strength, added inte
 Update 21.05.2025 - fixed 3mf files, modified descriptions.
 
 Also available at https://www.printables.com/model/1154980-wwbmg-wristwatch-extruder-for-idga-not-ridga-with
+
 Original source for the mod idea came from https://github.com/Armchair-Heavy-Industries/A4T
