@@ -29,6 +29,7 @@ Used hardware is identical to WW extruder list except the gearset. Print setting
 
 Update 11.03.2025 - uploaded new models, improved looks and strength, added integrated supports for tension arm model. Improved the visuals for smooth idler bearing arm. Created Github page, added BOM.
 Update 21.05.2025 - fixed 3mf files, modified descriptions.
+Update 29.11.2025 - reduced main drive axle tolerances to 0.333mm or about 0.16mm around the axle to further improve TPU reliablity. Re-did the renders aswell and updated the CAD file.
 
 Also available at https://www.printables.com/model/1154980-wwbmg-wristwatch-extruder-for-idga-not-ridga-with
 
