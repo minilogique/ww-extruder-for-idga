@@ -1,6 +1,6 @@
 WristWatch extruder with OEM IDGA gearset.
 
-![alt text](https://github.com/minilogique/ww-extruder-for-idga/blob/main/images/WW%20IDGA%20smooth%20idler%20sideview.PNG)
+!(https://github.com/minilogique/ww-extruder-for-idga/blob/main/images/WW%20IDGA%20smooth%20idler%20sideview.PNG)
 To see it in action pushing 95A TPU at 29mm3/s https://www.youtube.com/watch?v=95B_EeGK_1Y
 
 Had an OEM IDGA gearset laying around and I had nothing else to do with it. Clockwork2 seemed to be unecessarily complex so I opted to butcher WristWatch2 BMG version to make it fit IDGA as it's already fairly similar. Needed to move the filament path 9.25mm forward and match the mounting pattern, because of that the extruder is a bit longer and stepper is farther away for that amount.
