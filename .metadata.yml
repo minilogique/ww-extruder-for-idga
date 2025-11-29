@@ -10,7 +10,7 @@ discord_username: miniminimini
 # The CAD files for your mod. Please provide them as a list.
 # Note that each mod must include at least one CAD file.
 cad:
-- STEP/WWBMG IDGA v25.step
+- STEP/WWBMG IDGA V34.step
 # The parts of your mod, exported and oriented ready to be sliced. Please provide them as a list.
 # Note that each mod must include at least one STL or OBJ file.
 stl:
@@ -23,9 +23,12 @@ stl:
 # **Note that the first image specified here will be used as cover image on mods.vorondesign.com**
 # All paths are relative to this .metadata.yml file.
 images:
-- images/7797d12f-1ac9-4de5-8da3-dae2b9b02459.png
-- images/dsfsdff.png
-- images/WW IDGA smooth idler sideview.png
+- images/1.png
+- images/2.png
+- images/3.png
+- images/4.png
+- images/5.png
+- images/6.png
 # Printer compatibility. Please specify all compatible printers as a list. The following values are accepted:
 # "V0", "V0.1", "V0.2", "V0.2r1", "V1", "V1.6", "V1.8", "V1.8r1",  "V2", "V2.1", "V2.2", "V2.4", "V2.4r1", "V2.4r2", "VSW", "VT", "VTr1", "VL"
 # Please only specify printers that you have either tested your mod on yourself, or that someone else has tested for you. If you are unsure whether your
