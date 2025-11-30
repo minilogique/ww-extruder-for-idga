@@ -30,9 +30,9 @@ For smooth idler
 Used hardware is identical to WW extruder list except the gearset. Print settings are recommended to be of official Voron spec. Centre of Mass is shifted so it quite possibly will affect your resonance with more aggressive print settings. Parts except idler arm are printed as oriented in the files. Drilling/cleaning filament path with 2mm nail/drillbit might be needed depending of your print quality.
 
 
-Update 11.03.2025 - uploaded new models, improved looks and strength, added integrated supports for tension arm model. Improved the visuals for smooth idler bearing arm. Created Github page, added BOM.
-Update 21.05.2025 - fixed 3mf files, modified descriptions.
-Update 29.11.2025 - reduced main drive axle tolerances to 0.333mm or about 0.16mm around the axle to further improve TPU reliablity. Re-did the renders aswell and updated the CAD file.
+- Update 11.03.2025 - uploaded new models, improved looks and strength, added integrated supports for tension arm model. Improved the visuals for smooth idler bearing arm. Created Github page, added BOM.
+- Update 21.05.2025 - fixed 3mf files, modified descriptions.
+- Update 29.11.2025 - reduced main drive axle tolerances to 0.333mm or about 0.16mm around the axle to further improve TPU reliablity. Re-did the renders aswell and updated the CAD file.
 
 Also available at https://www.printables.com/model/1154980-wwbmg-wristwatch-extruder-for-idga-not-ridga-with
 
