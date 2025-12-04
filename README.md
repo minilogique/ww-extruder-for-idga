@@ -1,6 +1,6 @@
 WristWatch extruder with OEM IDGA gearset.
 
-![alt_text](https://github.com/minilogique/ww-extruder-for-idga/blob/main/images/7.JPG)
+![alt_text](https://github.com/minilogique/ww-extruder-for-idga/blob/main/images/core.JPG)
 
 ![alt text](https://github.com/minilogique/ww-extruder-for-idga/blob/main/images/5.png)
 
