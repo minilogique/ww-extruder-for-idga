@@ -1,5 +1,7 @@
 WristWatch extruder with OEM IDGA gearset.
 
+![alt text](https://github.com/minilogique/ww-extruder-for-idga/blob/main/images/7.png)
+
 ![alt text](https://github.com/minilogique/ww-extruder-for-idga/blob/main/images/5.png)
 
 To see it in action pushing 95A TPU at 29mm3/s https://www.youtube.com/watch?v=95B_EeGK_1Y
