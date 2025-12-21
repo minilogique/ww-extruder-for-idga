@@ -10,7 +10,7 @@ discord_username: miniminimini
 # The CAD files for your mod. Please provide them as a list.
 # Note that each mod must include at least one CAD file.
 cad:
-- STEP/WWBMG IDGA V34.step
+- STEP/WWBMG IDGA CAD.step
 # The parts of your mod, exported and oriented ready to be sliced. Please provide them as a list.
 # Note that each mod must include at least one STL or OBJ file.
 stl:
