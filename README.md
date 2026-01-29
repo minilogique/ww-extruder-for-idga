@@ -40,5 +40,6 @@ Used hardware is identical to WW extruder list except the gearset. Print setting
 - Update 29.01.2026 - aesthetical changes for "MAIN BODY", updated CAD, new renders.
 
 Also available at https://www.printables.com/model/1154980-wwbmg-wristwatch-extruder-for-idga-not-ridga-with
+I went a bit further with the idea for more torque, cheaper to build WW MK8 at https://github.com/minilogique/WristWatch-MK8
 
 Original source for the mod idea came from https://github.com/Armchair-Heavy-Industries/A4T
